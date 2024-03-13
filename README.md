@@ -40,6 +40,7 @@
 * 차윤서: [tun-acheese](https://github.com/tun-acheese) 
 * 채경원: [oenereaty](https://github.com/oenereaty)
 * 한은진: [hanezq](https://github.com/hanezq)
+* 홍수민: [Suminhub](https://github.com/Suminhub)
 
 ## I 과제
 * 과제 01 - 자기소개
